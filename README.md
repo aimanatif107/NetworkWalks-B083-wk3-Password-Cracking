@@ -58,5 +58,8 @@ By completing these modules, you will learn how to:
 | **PM2** | Networkwalks Web Tools | 🟩 Completed |
 
 ---
-*Repository created for Networkwalks Cybersecurity & Ethical Hacking Course - Week 3.*  
-*Date: September 2026*
+<div align="center">
+  <h3>👤 Author & Project Information</h3>
+  <b>Pentester:</b> Aiman Atif | Cybersecurity Intern<br>
+  <b>Program:</b> Networkwalks Cybersecurity Internship (Batch B083)<br>
+  <b>Date:</b> 26-09-2026 </div>
