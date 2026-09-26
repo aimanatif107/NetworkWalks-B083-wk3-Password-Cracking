@@ -17,20 +17,17 @@ In this module, we will utilize browser-based tools provided by Networkwalks to 
 2. Upload the locked file `My Locked PDF1.pdf`.
 3. The tool will parse the file and output the hash value, which will start with `$pdf$...`
 4. **Copy the complete hash value.** Do not miss any characters.
-> 📸 **[Insert Screenshot: Networkwalks Hash Calculator showing the uploaded file and the extracted $pdf$... hash]**
 
 ### Step 2: Crack the Hash using Networkwalks Password Cracker
 1. Open the [Networkwalks Password Cracker](https://networkwalks.com/password-cracker/) in your web browser.
 2. Paste the copied hash value into the input field.
 3. Start the attack. The tool will run a dictionary/brute-force attempt against the hash.
 4. Wait for the tool to finish. The time taken depends on the complexity of the password.
-> 📸 **[Insert Screenshot: Networkwalks Password Cracker showing the hash being processed and the final cracked password]**
 
 ### Step 3: Verify the Cracked Password
 1. Open `My Locked PDF1.pdf` on your local machine.
 2. Enter the cracked password: **`password1`**
 3. The document will unlock, proving the hash was successfully reversed to its plaintext form.
-> 📸 **[Insert Screenshot: The unlocked PDF document open on your screen]**
 
 ---
 
